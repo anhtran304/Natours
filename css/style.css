@@ -270,11 +270,11 @@ body {
     border-top-left-radius: 3px;
     border-top-right-radius: 3px; }
     .card__picture--1 {
-      background-image: linear-gradient(to right bottom, #ffb900, #ff7730), url(../img/nat-5.jpg); }
+      background-image: linear-gradient(to right bottom, #ffb900, #ff7730), url(https://drive.google.com/uc?export=view&id=19jZnXWXBvOsCisB9w3cRIO9IucoO-Noj); }
     .card__picture--2 {
-      background-image: linear-gradient(to right bottom, #7ed56f, #28b485), url(../img/nat-6.jpg); }
+      background-image: linear-gradient(to right bottom, #7ed56f, #28b485), url(https://drive.google.com/uc?export=view&id=1Ccn7BjPk7N0OuzzYFfXit3TPglwgBYdU); }
     .card__picture--3 {
-      background-image: linear-gradient(to right bottom, #2998ff, #5643fa), url(../img/nat-7.jpg); }
+      background-image: linear-gradient(to right bottom, #2998ff, #5643fa), url(https://drive.google.com/uc?export=view&id=1CQDkCrLF39llzqpmkMRSZuS0fLFQ4K7M); }
   .card__heading {
     font-size: 2.8rem;
     font-weight: 300;
@@ -558,7 +558,7 @@ body {
 
 .header {
   height: 95vh;
-  background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.8), rgba(40, 180, 133, 0.8)), url(../img/hero.jpg);
+  background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.8), rgba(40, 180, 133, 0.8)), url(https://drive.google.com/uc?export=view&id=1U10E1vFtnbCmsE9B1r3cymk_9qYx_ZPc);
   background-size: cover;
   background-position: top;
   position: relative;
@@ -733,7 +733,7 @@ body {
 
 .section-features {
   padding: 20rem 0;
-  background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.8), rgba(40, 180, 133, 0.8)), url(../img/nat-4.jpg);
+  background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.8), rgba(40, 180, 133, 0.8)), url(https://drive.google.com/uc?export=view&id=1LLjZCE3jbFGVGGu1KvWbraSyWJiXooxh);
   background-size: cover;
   transform: skewY(-7deg);
   margin-top: -10rem; }
@@ -754,7 +754,7 @@ body {
   background-image: linear-gradient(to right bottom, #7ed56f, #28b485); }
 
 .book {
-  background-image: linear-gradient(105deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.9) 50%, transparent 50%), url(../img/nat-10.jpg);
+  background-image: linear-gradient(105deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.9) 50%, transparent 50%), url(https://drive.google.com/uc?export=view&id=1B0FVRHkVVSG_poVrucG524yJnpr2W5vJ);
   background-size: cover;
   border-radius: 3px;
   box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.2);
