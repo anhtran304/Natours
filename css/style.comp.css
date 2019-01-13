@@ -458,7 +458,7 @@ body {
     position: relative;
     overflow: hidden;
     border-radius: 50%; }
-    @supports (clip-path: circle(0, 0)) or (-webkit-clip-path: circle(0, 0)) {
+    @supports (clip-path: polygon(0 0)) or (-webkit-clip-path: polygon(0 0)) {
       .story__shape {
         -webkit-clip-path: circle(50% at 50% 50%);
         clip-path: circle(50% at 50% 50%);
